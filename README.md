@@ -61,4 +61,4 @@ If you'd like to contribute to the project, please follow these guidelines:
 - Create a new branch for your feature or bug fix.
 - Submit a pull request with detailed descriptions of your changes.
 
-Thank you for checking out our project! If you have any questions or feedback, feel free to [open an issue](https://github.com/yourusername/brain-stroke-prediction-project/issues) or [contact us](mailto:youremail
+Thank you for checking out our project.
